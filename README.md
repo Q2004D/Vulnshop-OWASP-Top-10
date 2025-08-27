@@ -7,8 +7,8 @@ It is designed **for educational and training purposes only** to help students a
 ⚠️ **Disclaimer:** This project contains numerous security vulnerabilities and should **never** be used in production environments.
 
 ---
-## 📌 Documentation
-https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/VulnShop_OWASP_Report.pdf
+## 📌 Report for the first five Vuln. only
+https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/report.pdf
 ---
 
 ## 🚀 Features
