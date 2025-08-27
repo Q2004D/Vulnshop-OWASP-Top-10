@@ -4,8 +4,6 @@
 VulnShop is an intentionally vulnerable e-commerce web application developed in PHP and MySQL.  
 It is designed **for educational and training purposes only** to help students and security enthusiasts learn, test, and demonstrate the **OWASP Top 10 vulnerabilities**.
 
-⚠️ **Disclaimer:** This project contains numerous security vulnerabilities and should **never** be used in production environments.
-
 ---
 ## 📌 Report for the first five Vuln. only
 https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/report.pdf
@@ -15,7 +13,7 @@ https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/report.pdf
 - Demonstrates **all OWASP Top 10 (2021)** vulnerabilities:
   - A01: Broken Access Control
   - A02: Cryptographic Failures
-  - A03: Injection (SQLi, XSS)
+  - A03: Injection
   - A04: Insecure Design
   - A05: Security Misconfiguration
   - A06: Vulnerable & Outdated Components
@@ -40,30 +38,6 @@ https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/report.pdf
    ```
    http://localhost/vulnshop/
    ```
-
----
-
-## 🎯 Usage
-- Use this project for **Vulnerability Assessment & Penetration Testing (VAPT)** practice.
-- Try exploiting vulnerabilities with tools like:
-  - Burp Suite
-  - sqlmap
-  - Hydra
-  - curl / wget
-  - nmap
-  - whatweb
-
----
-
-## 📷 Screenshots
-_Add screenshots of successful exploitation (XSS, SQLi, SSRF, etc.) here when documenting your report._
-
----
-
-## ⚠️ Disclaimer
-This project is **for training and educational purposes only**.  
-The authors are **not responsible** for any misuse or damage caused by this code.
-
 ---
 
 ## 📚 References
