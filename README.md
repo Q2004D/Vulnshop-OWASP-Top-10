@@ -7,6 +7,9 @@ It is designed **for educational and training purposes only** to help students a
 ⚠️ **Disclaimer:** This project contains numerous security vulnerabilities and should **never** be used in production environments.
 
 ---
+## 📌 Documentation
+
+---
 
 ## 🚀 Features
 - Demonstrates **all OWASP Top 10 (2021)** vulnerabilities:
