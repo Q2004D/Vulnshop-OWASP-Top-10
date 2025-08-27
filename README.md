@@ -28,7 +28,7 @@ https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/report.pdf
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/vulnshop-owasp-top10-training.git
+   git clone https://github.com/Q2004D/Vulnshop-OWASP-Top-10.git
    ```
 2. Import the database:
    - Create a database `vulnshop`.
