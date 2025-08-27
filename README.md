@@ -8,7 +8,7 @@ It is designed **for educational and training purposes only** to help students a
 
 ---
 ## 📌 Documentation
-
+https://github.com/Q2004D/Vulnshop-OWASP-Top-10/blob/main/VulnShop_OWASP_Report.pdf
 ---
 
 ## 🚀 Features
